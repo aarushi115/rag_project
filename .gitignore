@@ -1,0 +1,15 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Generated indexes 
+vector_store/
+
+# Data 
+data_source/
+
+# OS
+.DS_Store
+Thumbs.db
