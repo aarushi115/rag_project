@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+faiss-cpu
+rank_bm25
+flashrank
+pypdf
+python-dotenv
